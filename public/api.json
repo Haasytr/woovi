@@ -1,0 +1,64 @@
+{
+    "payments": {
+        "options": [
+          {
+            "installments": 1,
+            "amount": "R$ 30.500,00",
+            "promotions": [
+              {
+                "type": "cashback",
+                "title": "3%",
+                "details": "Ganhe de Cashback"
+              },
+              {
+                "type": "bonus",
+                "title": "R$ 300,00",
+                "details": "🥳 de volta no seu Pix na hora"
+              }
+            ]
+          },
+          {
+            "installments": 2,
+            "amount": "R$ 15.300,00",
+            "total": "R$ 30.600,00",
+            "promotions": []
+          },
+          {
+            "installments": 3,
+            "amount": "R$ 10.196,66",
+            "total": "R$ 30.620,00",
+            "promotions": []
+          },
+          {
+            "installments": 4,
+            "amount": "R$ 7.725,00",
+            "total": "R$ 30.900,00",
+            "promotions": [
+                {
+                "type": "bonus",
+                "title": "-3% de juros",
+                "details": "Melhor opção de parcelamento"
+              }
+            ]
+          },
+          {
+            "installments": 5,
+            "amount": "R$ 6.300,00",
+            "total": "R$ 31.500,00",
+            "promotions": []
+          },
+          {
+            "installments": 6,
+            "amount": "R$ 5.283,33",
+            "total": "R$ 31.699,98",
+            "promotions": []
+          },
+          {
+            "installments": 7,
+            "amount": "R$ 4.542,85",
+            "total": "R$ 31.800,00",
+            "promotions": []
+          }
+        ]
+      }
+  }
